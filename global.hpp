@@ -13,6 +13,7 @@ inline float clamp(const float& lo, const float& hi, const float& v)
     return std::max(lo, std::min(hi, v));
 }
 
+// used for computing sphere and ray intersection
 inline bool solveQuadratic(const float& a, const float& b, const float& c, float& x0, float& x1)
 {
     float discr = b * b - 4 * a * c;

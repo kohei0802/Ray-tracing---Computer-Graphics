@@ -22,8 +22,10 @@ public:
         float t0, t1;
         if (!solveQuadratic(a, b, c, t0, t1))
             return false;
+        // reject the <0 solution
         if (t0 < 0)
             t0 = t1;
+        // if another solution is also <0, returns falase 
         if (t0 < 0)
             return false;
         tnear = t0;

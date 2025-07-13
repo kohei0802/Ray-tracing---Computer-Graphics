@@ -26,7 +26,7 @@ returns "true". Therefore, the intersection checking function needs to make sure
 5. I can also check whether determinant is near 0 in Moller Trumbore, to make sure the solution is a valid one. Because the light can be parallel to the triangle (although it rarely happens), or there might be no intersection.
 
 ## If the intersection checking function returns true even if tnear > 0, it'll cast shadow everywhere. 
-<img width="400" height="128" alt="image" src="https://github.com/user-attachments/assets/1ac29aba-a54f-49a1-90d1-3d52d7aa7c7e" />
+<img width="400" height="188" alt="image" src="https://github.com/user-attachments/assets/1ac29aba-a54f-49a1-90d1-3d52d7aa7c7e" />
 
 # Prerequisites
 You need OpenCV to build this project. 

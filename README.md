@@ -12,6 +12,7 @@ My solution to Games101 HW5.
 # Additionally, I corrected the mistake in the original Reflection code
 ## Before 
 <img width="550" height="448" alt="Screenshot from 2025-07-13 18-56-34" src="https://github.com/user-attachments/assets/04fd4ab5-f3b9-4e9d-8355-b6ac5acf72b6" />
+
 ## After
 <img width="750" height="453" alt="Screenshot from 2025-07-13 19-24-59" src="https://github.com/user-attachments/assets/96d2ec7b-c094-4c93-b032-c64fdcdf1bc5" />
 

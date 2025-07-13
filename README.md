@@ -9,7 +9,7 @@ My solution to Games101 HW5.
 # Result
 <img width="522" height="246" alt="image" src="https://github.com/user-attachments/assets/91175cd7-f964-4e3b-95ce-5120a8d7279a" />
 
-# Additionally, I corrected the mistake in the original Reflection code
+# Moreover, I corrected the mistake in the original Reflection code
 ## Before (reflective ball was completely black, under shadow)
 <img width="550" height="448" alt="Screenshot from 2025-07-13 18-56-34" src="https://github.com/user-attachments/assets/04fd4ab5-f3b9-4e9d-8355-b6ac5acf72b6" />
 

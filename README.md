@@ -7,7 +7,7 @@ My solution to Games101 HW5.
 3. Calculate correct coordinates of the pixels on the image screen to compute a correct direction vector.
 
 # Result
-<img width="522" height="246" alt="image" src="https://github.com/user-attachments/assets/91175cd7-f964-4e3b-95ce-5120a8d7279a" />
+<img width="750" height="453" alt="Screenshot from 2025-07-13 19-24-59" src="https://github.com/user-attachments/assets/96d2ec7b-c094-4c93-b032-c64fdcdf1bc5" />
 
 # Moreover, I corrected the mistake in the original Reflection code
 ## Before (reflective ball was completely black, under shadow)

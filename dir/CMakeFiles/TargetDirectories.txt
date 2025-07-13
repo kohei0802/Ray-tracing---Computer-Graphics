@@ -1,3 +1,0 @@
-/home/kohei/Downloads/Assignment5/Code/dir/CMakeFiles/RayTracing.dir
-/home/kohei/Downloads/Assignment5/Code/dir/CMakeFiles/edit_cache.dir
-/home/kohei/Downloads/Assignment5/Code/dir/CMakeFiles/rebuild_cache.dir

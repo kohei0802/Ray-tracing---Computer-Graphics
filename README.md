@@ -1,11 +1,10 @@
 # Ray-tracing - Computer Graphics
 My solution to Games101 HW5. 
 
-Almost all the codes in this HW are provided by the teaching team, starting with Prof. Lingqi Yan.
-
 # My main tasks
-1. Implement Moller Trumbore Algorithm to detect the nearest intersection between ray and triangle.
-2. Calculate correct coordinates of the pixels on the image screen to compute a correct direction vector.
+1. Corrected the mistake in the original castRay code in the REFLECTION case
+2. Implement Moller Trumbore Algorithm to detect the nearest intersection between ray and triangle.
+3. Calculate correct coordinates of the pixels on the image screen to compute a correct direction vector.
 
 # Result
 <img width="908" height="429" alt="image" src="https://github.com/user-attachments/assets/91175cd7-f964-4e3b-95ce-5120a8d7279a" />

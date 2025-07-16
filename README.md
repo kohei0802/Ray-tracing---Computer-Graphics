@@ -1,5 +1,5 @@
 # Ray-tracing - Computer Graphics
-My solution to Games101 HW5. 
+My solution to Games101 exercise 5
 
 # My main tasks
 1. Corrected the mistake in the original castRay code in the REFLECTION case
